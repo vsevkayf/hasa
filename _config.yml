@@ -8,12 +8,12 @@ descriptionHE: > # this means to ignore newlines until "baseurl:"
 description: > # this means to ignore newlines until "imgurl:"
   P.O.Box 151 Be'er Sheva, 84101 Israel.
 
-imgurl: "http://vsevkayf.github.io/hasa/assets/images" # the subpath of your site, e.g. /blog/
-cssurl: "http://vsevkayf.github.io/hasa/assets/css" # the subpath of your site, e.g. /blog/
-jsurl: "http://vsevkayf.github.io/hasa/assets/js" # the subpath of your site, e.g. /blog/
+imgurl: "https://vsevkayf.github.io/hasa/assets/images" # the subpath of your site, e.g. /blog/
+cssurl: "https://vsevkayf.github.io/hasa/assets/css" # the subpath of your site, e.g. /blog/
+jsurl: "https://vsevkayf.github.io/hasa/assets/js" # the subpath of your site, e.g. /blog/
 baseurl: "" # the subpath of your site, e.g. /blog/
 #siteurl: "http://nehsi.org" # the base hostname & protocol for your site
-url: "http://vsevkayf.github.io/hasa/" # the base hostname & protocol for your site
+url: "https://vsevkayf.github.io/hasa/" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
