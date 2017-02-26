@@ -1,0 +1,17 @@
+		</section>
+		<!-- Footer -->
+			<footer id="footer">
+				<ul class="copyright">
+					{% if page.language == 'he' %}
+						<li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li><li>{{ site.descriptionHE }}</li>
+						<li><strong>{{ site.titleHE }}</strong></li>
+					{% else %}
+						<li><strong>{{ site.title }}</strong></li><li>{{ site.description }}</li>
+						<li> <a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+					{% endif %}
+				</ul>
+			</footer>
+
+	</body>
+</html>
+

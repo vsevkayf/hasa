@@ -1,0 +1,37 @@
+<!-- Header -->
+	<header id="header" class="alt">
+		<h1><a href="{{ site.url }}">NEHSI</a> .org</h1>
+		
+		<nav id="nav">
+
+			<ul>
+				{% for steve in site.data.menu %}
+				
+					{% if steve.url contains 'http' %}
+						{% assign domain = '' %}
+					{% elsif steve.url == '#' %}
+						{% assign domain = '' %}
+					{% else %}
+						{% assign domain = site.url %}
+					{% endif %}
+					
+					{% if steve.subcategories != null %}
+						<li><a href="{{ site.url }}{{ steve.href }}" class="icon fa-angle-down">{{ steve.title }}</a>
+							<ul >
+								{% for subcategory in steve.subcategories %}
+									<li><a href="{{ site.url }}{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
+								{% endfor %}
+							</ul>
+					{% else %}
+						<li>
+							<a href="{{ site.url }}{{ steve.href }}" >{{ steve.title }}</a>
+					{% endif %}
+						</li>
+				{% endfor %}
+				
+				<li style="text-align:right;"><a href="{{ site.url }}/he" class="button">עברית</a></li>
+
+			<ul>
+		</nav>
+		 
+	</header>

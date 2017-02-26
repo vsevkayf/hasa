@@ -1,0 +1,58 @@
+<!DOCTYPE HTML>
+<!--
+	Alpha by HTML5 UP
+	html5up.net | @n33co
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+	
+	this specific version modified by some other dude
+-->
+
+<html>
+	<head>	
+		{% if page.language == 'he' %}
+			<title>{{ page.titleHE }}</title>
+		{% else %}
+			<title>{{ page.title }}</title>
+		{% endif %}
+		
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="keywords" content="" />
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		
+		{% if page.language == 'he' %}
+			<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.descriptionHE }}{% endif %}">
+		{% else %}
+			<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+		{% endif %}
+		
+		<!--[if lte IE 8]><script src="{{ site.cssurl }}/ie/html5shiv.js"></script><![endif]-->
+				<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+
+		<script src="{{ site.jsurl }}/jquery.dropotron.min.js"></script>
+		<script src="{{ site.jsurl }}/skel.min.js"></script>
+		<script src="{{ site.jsurl }}/skel-layers.min.js"></script>
+		<script src="{{ site.jsurl }}/jquery.scrollgress.min.js"></script>
+		<script src="{{ site.jsurl }}/init.js"></script>
+		<script src="{{ site.jsurl }}/jquery.webticker.js"></script>
+		
+		<noscript>
+			<link rel="stylesheet" href="{{ site.cssurl }}/skel.css" />
+			<link rel="stylesheet" href="{{ site.cssurl }}/style.css" />
+			<link rel="stylesheet" href="{{ site.cssurl }}/style-desktop.css" />
+		</noscript>
+		<!--[if lte IE 8]><link rel="stylesheet" href="{{ site.cssurl }}/ie/v8.css" /><![endif]-->
+	</head>
+
+		<body>
+			<section id="banner"></section>
+			{% if page.language == 'he' %}
+				{% include navHE.html  %}
+			{% else %}
+				{% include nav.html  %}
+			{% endif %}
+	
+
+			<!-- Main -->
+			<section id="main" class="container">
