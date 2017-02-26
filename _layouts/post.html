@@ -8,6 +8,6 @@
 {% endif %}
 	<section class="box special">
 		<h2>{{ page.title }}</h2><br>
-		{{ page.content }}
+		{{ page.content | markdownify }}
 	</section>
 {% include footer.html %}
