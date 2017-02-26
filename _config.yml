@@ -13,7 +13,7 @@ cssurl: "https://vsevkayf.github.io/hasa/assets/css" # the subpath of your site,
 jsurl: "https://vsevkayf.github.io/hasa/assets/js" # the subpath of your site, e.g. /blog/
 baseurl: "" # the subpath of your site, e.g. /blog/
 #siteurl: "http://nehsi.org" # the base hostname & protocol for your site
-url: "https://vsevkayf.github.io/hasa/" # the base hostname & protocol for your site
+url: "https://vsevkayf.github.io/hasa" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
