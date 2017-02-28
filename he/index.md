@@ -3,7 +3,7 @@ title: NEHSI
 layout: default
 language: he
 ---
-<section class="box special" style="background: none;">
+<section class="box special" style="background: none; padding: 4em;">
 	<header class="major" style="direction: rtl;">
 	
 		<h2 style="color: white;">ברוכים הבאים </h2>
