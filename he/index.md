@@ -60,30 +60,30 @@ language: he
 <section class="box special features">
 	<div class="features-row">
 		<section>
-			<span class="icon major fa-bolt accent2"></span>
-			<h3>Magna etiam</h3>
-			<p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p>
+			<span class="icon major fa-cogs accent2"></span>
+			<h3>פרוייקטים</h3>
+			<p>כרגע ישנם 14 פרוייקטים מחקריים פעילים במכון. <a href="{{ site.url }}/he/cprojects/"> קראו עוד.</a></p>
 		</section>
 		<section>
-			<span class="icon major fa-area-chart accent3"></span>
-			<h3>Ipsum dolor</h3>
-			<p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p>
+			<span class="icon major fa-bolt accent3"></span>
+			<h3>מאמרים</h3>
+			<p>דרך המחקרים שלנו אנו מנסים להרחיב את הבנת ההשפעות הבריאותיות של זיהום אוויר<a href="{{ site.url }}/he/ScientificPapers/"> קראו עוד.</a></p>
 		</section>
 	</div>
 	<div class="features-row">
 		<section>
-			<span class="icon major fa-cloud accent4"></span>
-			<h3>Sed feugiat</h3>
-			<p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p>
+			<span class="icon major fa-graduation-cap accent4"></span>
+			<h3>הצוות</h3>
+			<p>הצוות שלנו מורכב מאפידמיולוגים, רופאים, גיאוגרפים, מומחים למדיניות סביבתית ובריאות <a href="{{ site.url }}/he/Team/"> קראו עוד.</a></p>
 		</section>
 		<section>
-			<span class="icon major fa-lock accent5"></span>
-			<h3>Enim phasellus</h3>
-			<p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p>
+			<span class="icon major fa-group accent5"></span>
+			<h3>שיתפוי פעולה</h3>
+			<p>המכון שלנו משתף פעולה עם אוניברסיטת בן גוריון בנגב, המרכז הרפואי האוניברסיטאי סורוקה, ומשרד הבריאות  <a href="{{ site.url }}/he/Collaborations/"> קראו עוד.</a></p>
 		</section>
 	</div>
 </section>
-
+<!--
 <div class="row">
 	<div class="6u">
 
@@ -110,4 +110,4 @@ language: he
 
 	</div>
 </div>
-
+-->
