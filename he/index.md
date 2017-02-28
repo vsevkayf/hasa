@@ -52,8 +52,8 @@ language: he
 		direction: 'right'
 	  });</script>
 		
-	<span class="image featured"><img src="{{ site.imgurl }}/rsz_1b7dust.png" alt="" /></span>
-</section>-->
+	<span class="image featured"><img src="{{ site.imgurl }}/rsz_1b7dust.png" alt="" /></span>-->
+</section>
 
 
 
