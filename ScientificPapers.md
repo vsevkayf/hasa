@@ -3,7 +3,11 @@ layout: post
 title: Scientific Papers
 permalink: /ScientificPapers/
 ---
-
+<style>
+.box.special {
+    text-align: left;
+}
+</style>
 Our studies aim to extend the understanding on the associations of air pollution and health outcomes. This is a partial list of our environmental studies. Some were already published in clinical and environmental journals, and some are currently being conducted or analyzed:  
 
 (1) Karakis I, Landau D, Yitshak-Sade M, Hershkovitz R, Rotenberg M, Sarov B, et al. Exposure to metals and
