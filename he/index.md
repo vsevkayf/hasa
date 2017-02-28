@@ -62,24 +62,24 @@ language: he
 		<section>
 			<span class="icon major fa-cogs accent2"></span>
 			<h3>פרוייקטים</h3>
-			<p>כרגע ישנם 14 פרוייקטים מחקריים פעילים במכון. <a href="{{ site.url }}/he/cprojects/"> קראו עוד.</a></p>
+			<p>כרגע ישנם 14 פרוייקטים מחקריים פעילים במכון. <a href="{{ site.url }}/he/cprojects/"> קראו עוד</a></p>
 		</section>
 		<section>
 			<span class="icon major fa-bolt accent3"></span>
 			<h3>מאמרים</h3>
-			<p>דרך המחקרים שלנו אנו מנסים להרחיב את הבנת ההשפעות הבריאותיות של זיהום אוויר<a href="{{ site.url }}/he/ScientificPapers/"> קראו עוד.</a></p>
+			<p>דרך המחקרים שלנו אנו מנסים להרחיב את הבנת ההשפעות הבריאותיות של זיהום אוויר<a href="{{ site.url }}/he/ScientificPapers/"> קראו עוד</a></p>
 		</section>
 	</div>
 	<div class="features-row">
 		<section>
 			<span class="icon major fa-graduation-cap accent4"></span>
 			<h3>הצוות</h3>
-			<p>הצוות שלנו מורכב מאפידמיולוגים, רופאים, גיאוגרפים, מומחים למדיניות סביבתית ובריאות <a href="{{ site.url }}/he/Team/"> קראו עוד.</a></p>
+			<p>הצוות שלנו מורכב מאפידמיולוגים, רופאים, גיאוגרפים, מומחים למדיניות סביבתית ובריאות <a href="{{ site.url }}/he/Team/"> קראו עוד</a></p>
 		</section>
 		<section>
 			<span class="icon major fa-group accent5"></span>
 			<h3>שיתפוי פעולה</h3>
-			<p>המכון שלנו משתף פעולה עם אוניברסיטת בן גוריון בנגב, המרכז הרפואי האוניברסיטאי סורוקה, ומשרד הבריאות  <a href="{{ site.url }}/he/Collaborations/"> קראו עוד.</a></p>
+			<p>המכון שלנו משתף פעולה עם אוניברסיטת בן גוריון בנגב, המרכז הרפואי האוניברסיטאי סורוקה, ומשרד הבריאות  <a href="{{ site.url }}/he/Collaborations/"> קראו עוד</a></p>
 		</section>
 	</div>
 </section>
