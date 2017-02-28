@@ -12,7 +12,7 @@ language: he
 			למכון בריאות הסביבה וקיימות בנגב  <span dir="ltr" > <b style="color: white;">Negev Environmental Health and Sustainability Institute (NEHSI),</b> </span> &nbsp; ביתם של צוות רב תחומי ועצמאי שעוסק ביחסי הגומלין בין הסביבה, בריאות ורווחת תושבי הנגב. 
 		</p>
 	</header>
-	<ul id="webTicker">
+	 <!--<ul id="webTicker">
 			<li><span style="color: white;">אתר המכון לקיימות, סביבה ובריאות בנגב נפתח רשמית! &ndash; <a href="#">המשיכו לקרוא</a></span></li>
 
 			<li><span style="color: white;"> בגלל זיהום האוויר – ידעות הנגב
@@ -53,7 +53,7 @@ language: he
 	  });</script>
 		
 	<span class="image featured"><img src="{{ site.imgurl }}/rsz_1b7dust.png" alt="" /></span>
-</section>
+</section>-->
 
 
 
