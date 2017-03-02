@@ -57,14 +57,14 @@ permalink: /contactUs/
 
 /* Icons ---------------------------------- */
 #name{
-	background-image: url(/hasa/images/svg/name.svg);
+	background-image: url(/assets/hasa/images/svg/name.svg);
 	background-size: 30px 30px;
 	background-position: 11px 8px;
 	background-repeat: no-repeat;
 }
 
 #name:focus{
-	background-image: url(/hasa/images/svg/name.svg);
+	background-image: url(/assets/hasa/images/svg/name.svg);
 	background-size: 30px 30px;
 	background-position: 8px 5px;
   	background-position: 11px 8px;
@@ -72,14 +72,14 @@ permalink: /contactUs/
 }
 
 #title{
-	background-image: url(/hasa/images/svg/doc.svg);
+	background-image: url(/assets/hasa/images/svg/doc.svg);
 	background-size: 30px 30px;
 	background-position: 11px 8px;
 	background-repeat: no-repeat;
 }
 
 #title:focus{
-	background-image: url(/hasa/images/svg/doc.svg);
+	background-image: url(/assets/hasa/images/svg/doc.svg);
 	background-size: 30px 30px;
 	background-position: 8px 5px;
   	background-position: 11px 8px;
@@ -87,14 +87,14 @@ permalink: /contactUs/
 }
 
 #company{
-	background-image: url(/hasa/images/svg/CompanyName.svg);
+	background-image: url(/assets/hasa/images/svg/CompanyName.svg);
 	background-size: 30px 30px;
 	background-position: 11px 8px;
 	background-repeat: no-repeat;
 }
 
 #company:focus{
-	background-image: url(/hasa/images/svg/CompanyName.svg);
+	background-image: url(/assets/hasa/images/svg/CompanyName.svg);
 	background-size: 30px 30px;
 	background-position: 8px 5px;
   	background-position: 11px 8px;
@@ -102,14 +102,14 @@ permalink: /contactUs/
 }
 
 #phone{
-	background-image: url(/hasa/images/svg/Phone.svg);
+	background-image: url(/assets/hasa/images/svg/Phone.svg);
 	background-size: 30px 30px;
 	background-position: 11px 8px;
 	background-repeat: no-repeat;
 }
 
 #phone:focus{
-	background-image: url(/hasa/images/svg/Phone.svg);
+	background-image: url(/assets/hasa/images/svg/Phone.svg);
 	background-size: 30px 30px;
 	background-position: 8px 5px;
   	background-position: 11px 8px;
@@ -117,35 +117,35 @@ permalink: /contactUs/
 }
 
 #email{
-	background-image: url(/hasa/images/svg/Email.svg);
+	background-image: url(/assets/hasa/images/svg/Email.svg);
 	background-size: 30px 30px;
 	background-position: 11px 8px;
 	background-repeat: no-repeat;
 }
 
 #email:focus{
-	background-image: url(/hasa/images/svg/Email.svg);
+	background-image: url(/assets/hasa/images/svg/Email.svg);
 	background-size: 30px 30px;
   	background-position: 11px 8px;
 	background-repeat: no-repeat;
 }
 
 #HAU{
-	background-image: url(/hasa/images/svg/planet.svg);
+	background-image: url(/assets/hasa/images/svg/planet.svg);
 	background-size: 30px 30px;
 	background-position: 11px 8px;
 	background-repeat: no-repeat;
 }
 
 #HAU:focus{
-	background-image: url(/hasa/images/svg/planet.svg);
+	background-image: url(/assets/hasa/images/svg/planet.svg);
 	background-size: 30px 30px;
   	background-position: 11px 8px;
 	background-repeat: no-repeat;
 }
 
 #comment{
-	background-image: url(/hasa/images/svg/comment.svg);
+	background-image: url(/assets/hasa/images/svg/comment.svg);
 	background-size: 30px 30px;
 	background-position: 11px 8px;
 	background-repeat: no-repeat;
