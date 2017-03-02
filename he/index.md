@@ -65,7 +65,7 @@ language: he
 			<p>כרגע ישנם 14 פרוייקטים מחקריים פעילים במכון. <a href="{{ site.url }}/he/cprojects/"> קראו עוד</a></p>
 		</section>
 		<section>
-			<span class="icon major fa-bolt accent3"></span>
+			<span class="icon major fa-file-text accent3"></span>
 			<h3>מאמרים</h3>
 			<p>דרך המחקרים שלנו אנו מנסים להרחיב את הבנת ההשפעות הבריאותיות של זיהום אוויר<a href="{{ site.url }}/he/ScientificPapers/"> קראו עוד</a></p>
 		</section>
