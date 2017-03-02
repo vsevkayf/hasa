@@ -32,6 +32,6 @@ Our team comprises epidemiologists, physicians, geographers, health policy speci
 
  [Prof. Batia Sarov](/hasa/sarov) Department of Public Health, Faculty of Health Sciences at Ben-Gurion University of the Negev
 
- [Dr. Alina Vodonos Zilberg](/hasa/alina) Department of Public Health, Faculty of Health Sciences at Ben-Gurion University of the Negev
+ [Dr. Alina Vodonos Zilberg](/hasa/alina) Soroka Clinical Researh Center
 
- [Dr. Maayan Yitshak-Sade](/hasa/maayan) Chief Scientific Officer, Soroka Clinical Researh Center
+ [Dr. Maayan Yitshak-Sade](/hasa/maayan) Postdoctoral Research Fellow at Harvard T.H. Chan School of Public Health
