@@ -146,10 +146,11 @@ permalink: /he/contactUs/
 }
 
 #comment{
-	background-image: url(/hasa/assets/svg/comment.svg);
+	background-image: url(/hasa/assets/images/svg/comment.svg);
 	background-size: 30px 30px;
 	background-position: 11px 8px;
 	background-repeat: no-repeat;
+	
 }
 
 textarea {
