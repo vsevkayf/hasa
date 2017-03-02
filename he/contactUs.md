@@ -150,6 +150,20 @@ permalink: /he/contactUs/
 	background-size: 30px 30px;
 	background-position: 11px 8px;
 	background-repeat: no-repeat;
+	-moz-appearance: none;
+	-webkit-appearance: none;
+	-o-appearance: none;
+	-ms-appearance: none;
+	appearance: none;
+	background: #f8f8f8;
+	border-radius: 6px;
+	border: solid 1px #e5e5e5;
+	color: inherit;
+	display: block;
+	outline: 0;
+	padding: 30px 30px 30px 30px;
+	text-decoration: none;
+	width: 100%;
 	
 }
 
