@@ -4,10 +4,7 @@ title: Maayan Yitshak-Sade
 permalink: /maayan/
 ---
 
-
-Mrs. Yitshak-Sade serves as a Chief Scientific Officer at the Soroka clinical research center 
-
-and currently completing her doctoral thesis at Ben Gurion University. 
+Dr. Maayan Yitshak-Sade serves as a Chief Scientific Officer at the Soroka clinical research center.  
 
 Maayan&#39;s research focuses on environmental epidemiology. 
 
