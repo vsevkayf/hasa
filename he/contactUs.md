@@ -6,7 +6,7 @@ permalink: /he/contactUs/
 ---
 
 <style>
-@import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 
 #form-div {
 	background-color:rgba(72,72,72,0.4);
@@ -58,14 +58,14 @@ permalink: /he/contactUs/
 
 /* Icons ---------------------------------- */
 #name{
-	background-image: url(http://vsevkayf.github.io/NEHSI/images/svg/name.svg);
+	background-image: url(/hasa/assets/images/svg/name.svg);
 	background-size: 30px 30px;
 	background-position: 11px 8px;
 	background-repeat: no-repeat;
 }
 
 #name:focus{
-	background-image: url(http://vsevkayf.github.io/NEHSI/images/svg/name.svg);
+	background-image: url(/hasa/assets/images/svg/name.svg);
 	background-size: 30px 30px;
 	background-position: 8px 5px;
   	background-position: 11px 8px;
@@ -73,14 +73,14 @@ permalink: /he/contactUs/
 }
 
 #title{
-	background-image: url(http://vsevkayf.github.io/NEHSI/images/svg/doc.svg);
+	background-image: url(/hasa/assets/images/svg/doc.svg);
 	background-size: 30px 30px;
 	background-position: 11px 8px;
 	background-repeat: no-repeat;
 }
 
 #title:focus{
-	background-image: url(http://vsevkayf.github.io/NEHSI/images/svg/doc.svg);
+	background-image: url(/hasa/assets/images/svg/doc.svg);
 	background-size: 30px 30px;
 	background-position: 8px 5px;
   	background-position: 11px 8px;
@@ -88,14 +88,14 @@ permalink: /he/contactUs/
 }
 
 #company{
-	background-image: url(http://vsevkayf.github.io/NEHSI/images/svg/CompanyName.svg);
+	background-image: url(/hasa/assets/images/svg/CompanyName.svg);
 	background-size: 30px 30px;
 	background-position: 11px 8px;
 	background-repeat: no-repeat;
 }
 
 #company:focus{
-	background-image: url(http://vsevkayf.github.io/NEHSI/images/svg/CompanyName.svg);
+	background-image: url(/hasa/assets/images/svg/CompanyName.svg);
 	background-size: 30px 30px;
 	background-position: 8px 5px;
   	background-position: 11px 8px;
@@ -103,14 +103,14 @@ permalink: /he/contactUs/
 }
 
 #phone{
-	background-image: url(http://vsevkayf.github.io/NEHSI/images/svg/Phone.svg);
+	background-image: url(/hasa/assets/images/svg/Phone.svg);
 	background-size: 30px 30px;
 	background-position: 11px 8px;
 	background-repeat: no-repeat;
 }
 
 #phone:focus{
-	background-image: url(http://vsevkayf.github.io/NEHSI/images/svg/Phone.svg);
+	background-image: url(/hasa/assets/images/svg/Phone.svg);
 	background-size: 30px 30px;
 	background-position: 8px 5px;
   	background-position: 11px 8px;
@@ -118,35 +118,35 @@ permalink: /he/contactUs/
 }
 
 #email{
-	background-image: url(http://vsevkayf.github.io/NEHSI/images/svg/Email.svg);
+	background-image: url(/hasa/assets/images/svg/Email.svg);
 	background-size: 30px 30px;
 	background-position: 11px 8px;
 	background-repeat: no-repeat;
 }
 
 #email:focus{
-	background-image: url(http://vsevkayf.github.io/NEHSI/images/svg/Email.svg);
+	background-image: url(/hasa/assets/images/svg/Email.svg);
 	background-size: 30px 30px;
   	background-position: 11px 8px;
 	background-repeat: no-repeat;
 }
 
 #HAU{
-	background-image: url(http://vsevkayf.github.io/NEHSI/images/svg/planet.svg);
+	background-image: url(/hasa/assets/images/svg/planet.svg);
 	background-size: 30px 30px;
 	background-position: 11px 8px;
 	background-repeat: no-repeat;
 }
 
 #HAU:focus{
-	background-image: url(http://vsevkayf.github.io/NEHSI/images/svg/planet.svg);
+	background-image: url(/hasa/assets/images/svg/planet.svg);
 	background-size: 30px 30px;
   	background-position: 11px 8px;
 	background-repeat: no-repeat;
 }
 
 #comment{
-	background-image: url(http://rexkirby.com/kirbyandson/images/comment.svg);
+	background-image: url(/hasa/assets/svg/comment.svg);
 	background-size: 30px 30px;
 	background-position: 11px 8px;
 	background-repeat: no-repeat;
