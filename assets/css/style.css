@@ -16,9 +16,9 @@
 	}
 
 	body, input, select, textarea {
-		color: #777;
+		color: black;
 		font-family: "Source Sans Pro", sans-serif;
-		font-size: 16pt;
+		font-size: 20pt;
 		font-weight: 300;
 		line-height: 1.65em;
 		letter-spacing: -0.015em;
