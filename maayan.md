@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Maayan Yitshak-Sade
+title: Dr. Maayan Yitshak-Sade
 permalink: /maayan/
 ---
 
